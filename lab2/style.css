@@ -1,0 +1,14 @@
+
+       
+        body{
+        	background-color:lightblue;
+        }
+        h1{
+                color:navy;
+                margin-left: :20px;
+        }
+
+        a.nodec {text-decoration:none;}
+        a:hover {color:red}
+        li em {color:blue;}
+        hi,em {color: red;}
